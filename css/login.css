@@ -1,0 +1,61 @@
+body{
+	font-family: sans-serif;
+	background: url("../images/design10.jpg");
+	background-size: cover;
+	background-size: fixed;
+}
+.form{
+	border: 1px solid;
+	width: 25%;
+	height: 290px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 140px;
+	background: rgba(0,0,0,0.3);
+
+
+}
+.form-box{
+	
+	background-color:wheat ;
+	height: 63%;
+}
+.head{
+	text-align: center;
+	font-size: 40px;
+	padding: 5px;
+	background-color: grey;
+	margin-bottom: 20px;
+	font-family: cursive;
+	background-color: grey;
+	color: white;
+}
+.body{
+	text-align: center;
+	color: white;
+	background-color: wheat;
+}
+p{
+	color: white;
+	margin-left: 10%;
+	margin-bottom: 5%;
+
+}
+.username{
+	height: 20px;
+	width: 262px;
+	margin-left: 10%;
+}
+.password{
+	height: 20px;
+	width: 262px;
+	margin-left: 10%;
+}
+.button{
+	height: 25px;
+	width: 70px;
+	margin: 12px 0px 5px 38%;
+	color: white;
+	background-color: wheat;
+
+}

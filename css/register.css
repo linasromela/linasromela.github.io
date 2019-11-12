@@ -1,0 +1,57 @@
+body{
+	width: 100%;
+	margin: 0;
+	border: 0;
+	background-image: url(../images/design6.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1{
+	font-family: cursive;
+	color: #fff;
+	font-size: 33px;
+	text-align: center;
+}
+.register-container{
+	width: 26%;
+	height:370px;
+	position: relative;
+	left: 30%;
+	top: 50%;
+	background-color: grey;
+	margin-top: 100px;
+	margin-left: 70px;
+}
+.register-title{
+	padding-top: 3px;
+	
+}
+.form-box{
+	width: 100%;
+}
+.fllup{
+	width: 60%;
+	height: 30px;
+	margin-bottom: 15px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.sign-in-btn{
+	border: none;
+	width: 30%;
+	height: 40px;
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 10px;
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #fff;
+	background-color: black;
+	font-weight: bold;
+	border-radius: 8px;
+}
+.sign-in-btn:hover{
+	background-color: #fff;
+	color: black;
+	cursor: pointer;
+}
